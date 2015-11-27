@@ -23,22 +23,21 @@ To test viewing descriptions of the images in this app, you can run Voice Over f
 ===========================================================================
 BUILD REQUIREMENTS:
 
-Xcode 3.2 or later, Mac OS X v10.6 or later
+Xcode 3.2, Mac OS X 10.6 Snow Leopard or later
 
 ===========================================================================
 RUNTIME REQUIREMENTS:
 
-Mac OS X v10.6 or later
-
+Mac OS X 10.6 Snow Leopard or later
 
 ===========================================================================
 CHANGES FROM PREVIOUS VERSIONS:
 	
-1.0 - First release
+Version 1.1
+- Project updated for Xcode 4.
+Version 1.0
+- First release
 
 
-Feedback and Bug Reports
-Please send all feedback about this sample by connecting to the Contact ADC page.
-Please submit any bug reports about this sample to the Bug Reporting page.
-
-Copyright (C) 2010, Apple Inc.
+===========================================================================
+Copyright (C) 2010-2011, Apple Inc.
